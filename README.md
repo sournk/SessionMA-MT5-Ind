@@ -5,6 +5,8 @@
 
 SessionMA is a specialized Moving Average (MA) indicator for MetaTrader 5 that calculates the MA only on bars that fall within a specified session time window. Unlike standard MA indicators that calculate across all available bars, SessionMA filters calculations to include only the data points that occur during your defined trading session.
 
+![Layout](img/UM001.%20Layout.png)
+
 This indicator is particularly useful for:
 - Session-based trading strategies
 - Analyzing market behavior during specific time periods
